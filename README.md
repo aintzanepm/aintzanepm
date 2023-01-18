@@ -7,7 +7,7 @@ I am very excited to be learning how to use GitHub in different technical settin
 
 🌱 I’m currently a student at the University of Central Florida (Go Knights!) and a future SWE Intern for Microsoft Summer 2023!
 
-🔭 I’m currently working on my second semester for my Computer Science degree, using and learning various languages such as Java, C, and more!
+🔭 I’m currently working on my fourth semester for my Computer Science degree, using and learning various languages such as Java, C, and more!
 
 👯 Reach out to me! My instagram is aintzane.perez, discord info is aintzane.perez#8128, and add me on Linkedin: https://www.linkedin.com/in/aintzane-perez-masache/
 	
